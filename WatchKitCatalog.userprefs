@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BA547202-7B4E-4C29-B3F2-6C6155DC9F3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WatchKit3Extension/Initial Interface Controller/InterfaceController.cs">
+    <Files>
+      <File FileName="WatchKit3Extension/Initial Interface Controller/InterfaceController.cs" Line="24" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.WatchKitCatalog PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9F78B652-8602-4B9E-A60A-425B637D7EB5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WatchApp3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E0CC6DC4-9240-48B5-8326-26C5588C2461" />
+</Properties>
